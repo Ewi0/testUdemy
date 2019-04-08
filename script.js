@@ -14,3 +14,5 @@ console.log(arr[1]);
 
 let a = 5;
 console.log(a);
+
+prompt("Вам есть 18 лет?", "Да");
